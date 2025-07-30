@@ -15,6 +15,9 @@ This project is a technical solution for the Blossom Fronnd Development Challeng
 
 ## 📸 Screenshots
 
+<img width="1696" height="872" alt="Captura de pantalla 2025-07-30 a la(s) 2 07 17 p m" src="https://github.com/user-attachments/assets/dbce8b53-9b17-4d92-848a-a47d1b10fa3e" />
+
+
 ## 🚀 Install
 
 ```bash
