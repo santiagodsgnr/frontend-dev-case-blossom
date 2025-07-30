@@ -1,0 +1,37 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "greycliff-cf";
+  src: url('./assets/fonts/Greycliff_CF_Bold.otf');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "greycliff-cf";
+  src: url('./assets/fonts/Greycliff_CF_Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "greycliff-cf";
+  src: url('./assets/fonts/Greycliff_CF_Medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "greycliff-cf";
+  src: url('./assets/fonts/Greycliff_CF_Semibold.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+
+:root {
+  font-family: greycliff-cf;
+  line-height: 1.5;
+  font-weight: 400;
+  color: #111827;
+}
